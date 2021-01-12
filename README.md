@@ -1,7 +1,7 @@
 # Algorithm_Problem_Solving
 
 ### Started Migration to github
-![algorithms problem solving](https://www.notion.so/fundamentaldeveloper/8a085ab32c2c4e3bb15825916d3abd1a)
+[algorithms problem solving](https://www.notion.so/fundamentaldeveloper/8a085ab32c2c4e3bb15825916d3abd1a)
 
 ### 1.12 (화)
 ### 랭킹 산정하기
