@@ -4,7 +4,7 @@
 [algorithms problem solving](https://www.notion.so/fundamentaldeveloper/8a085ab32c2c4e3bb15825916d3abd1a)
 
 ### 1.12 (화)
-### 랭킹 산정하기
+### #Ranking #Swift
 
 ```swift
 import Foundation
@@ -135,7 +135,7 @@ for tuple in resultTuples {
 ```
 
 ### 1.14 (목)
-### #DP #swift
+### #Dynamic Programming #swift
 <br>
 
 ```swift
